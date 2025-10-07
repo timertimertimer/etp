@@ -1,0 +1,2 @@
+ignore = ["F841"]
+select = ["W292"]
